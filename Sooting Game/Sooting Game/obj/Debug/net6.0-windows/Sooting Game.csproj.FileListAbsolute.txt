@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\bin\Debug\net6.0-windows\Sooting Game.exe
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\bin\Debug\net6.0-windows\Sooting Game.deps.json
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\bin\Debug\net6.0-windows\Sooting Game.runtimeconfig.json
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\bin\Debug\net6.0-windows\Sooting Game.dll
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\bin\Debug\net6.0-windows\Sooting Game.pdb
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting_Game.Form1.resources
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.csproj.GenerateResource.cache
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.AssemblyInfo.cs
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.dll
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\refint\Sooting Game.dll
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.pdb
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\Sooting Game.genruntimeconfig.cache
+C:\Users\User\Desktop\cs\Sooting Game\Sooting Game\obj\Debug\net6.0-windows\ref\Sooting Game.dll

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\learing\learing\obj\Debug\learing.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\learing\learing\obj\Debug\learing.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\learing\learing\obj\Debug\learing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\learing\learing\bin\Debug\learing.exe.config
+C:\Users\User\Desktop\cs\learing\learing\bin\Debug\learing.exe
+C:\Users\User\Desktop\cs\learing\learing\bin\Debug\learing.pdb
+C:\Users\User\Desktop\cs\learing\learing\obj\Debug\learing.exe
+C:\Users\User\Desktop\cs\learing\learing\obj\Debug\learing.pdb

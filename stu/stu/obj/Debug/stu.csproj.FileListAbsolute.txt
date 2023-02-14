@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\cs\stu\stu\bin\Debug\stu.exe.config
+C:\Users\User\Desktop\cs\stu\stu\bin\Debug\stu.exe
+C:\Users\User\Desktop\cs\stu\stu\bin\Debug\stu.pdb
+C:\Users\User\Desktop\cs\stu\stu\obj\Debug\stu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cs\stu\stu\obj\Debug\stu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\cs\stu\stu\obj\Debug\stu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs\stu\stu\obj\Debug\stu.exe
+C:\Users\User\Desktop\cs\stu\stu\obj\Debug\stu.pdb
